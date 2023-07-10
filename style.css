@@ -18,7 +18,8 @@ h1,.job-title {
   text-align: center;
   font-family: 'Times New Roman', Times, serif
 }
-
+  
+}
 .background-2 {
   background-color: lavender;
   margin-left: 250px;
@@ -27,11 +28,11 @@ h1,.job-title {
   border: 7px solid yellowgreen;
 }
 
-h3, h4 {
+h3, h4, h2 {
   text-align: center;
   color: black;
 }
-ul{
+ul, ol {
   text-align: center;
   list-style-type: none;
 }
