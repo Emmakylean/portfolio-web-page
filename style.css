@@ -10,6 +10,7 @@ html {
    border: 5px dotted black;
   color: yellowgreen;
   padding: 5px;
+  font-size: 30px;
 }
 
 
@@ -26,8 +27,10 @@ h1,.job-title {
   color: black;
   border: 7px solid yellowgreen;
 }
-
-h2, h3, h4 {
+h2{
+  text-align: center;
+}
+ h3, h4 {
   text-align: center;
   color: black;
 }
