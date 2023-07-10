@@ -10,7 +10,6 @@ html {
    border: 5px dotted black;
   color: yellowgreen;
   padding: 5px;
-  font-size: 30px;
 }
 
 
@@ -18,6 +17,7 @@ html {
 h1,.job-title {
   text-align: center;
   font-family: 'Times New Roman', Times, serif
+  font-size: 30px;
 }
 
 .background-2 {
