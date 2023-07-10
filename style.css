@@ -9,7 +9,7 @@ html {
    border: 5px dotted black;
   color: yellowgreen;
   padding: 5px;
-  font-size: 150px;
+  font-size: 70px;
 }
 
 
@@ -39,7 +39,6 @@ p {
   text-align: center;
   margin-left: 90px;
   margin-right: 90px;
-  font-size: 12px;
 }
 .contact-info {
   margin-left: 250px;
