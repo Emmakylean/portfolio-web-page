@@ -9,7 +9,7 @@ html {
    border: 5px dotted black;
   color: yellowgreen;
   padding: 5px;
-  font-size: 40px;
+  font-size: 30px;
 }
 
 h1,.job-title {
@@ -35,15 +35,16 @@ ul {
   text-align: center;
   list-style-type: none;
 }
+ol {
+  text-align: center;
+  list-style-type: none;
+}
 p {
   text-align: center;
   margin-left: 90px;
   margin-right: 90px;
 }
-ol {
-  text-align: center;
-  list-style-type: none;
-}
+
 .contact-info {
   margin-left: 250px;
   margin-right: 250px;
